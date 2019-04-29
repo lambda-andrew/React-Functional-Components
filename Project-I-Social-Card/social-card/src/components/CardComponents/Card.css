@@ -1,1 +1,26 @@
 /* All styles for your Card Components live here */
+
+.card-container {
+  width: 80%;
+  margin: 1rem auto;
+  border: 1px solid lightgrey;
+  border-bottom-left-radius: .5em;
+  border-bottom-right-radius: .5em;
+  border-top-style: none;
+}
+
+.card-content {
+  margin: 0;
+  padding: 1rem 1.5rem 2rem;
+}
+
+img {
+  width: 100%;
+  border-top-left-radius: .5em;
+  border-top-right-radius: .5em;
+}
+
+.link {
+  color: gray;
+  text-decoration: none;
+}
