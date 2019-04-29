@@ -3,7 +3,7 @@ import './Card.css';
 
 const CardBanner = () => {
   return(
-    <i class="fas fa-angry"></i>
+    <p>this is the top</p>
   )
 };
 

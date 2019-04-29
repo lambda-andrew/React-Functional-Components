@@ -1,9 +1,12 @@
 import React from 'react';
 import './Card.css';
+import CardBanner from './CardBanner';
 
 const CardContent = () => {
   return (
-  <p>words</p>
+    <div>
+    <CardBanner/>
+    </div>
   )
 };
 

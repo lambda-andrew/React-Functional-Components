@@ -3,7 +3,7 @@ import './Header.css';
 
 const ImageThumbnail = () => {
   return(
-    <i class="fas fa-angry"></i>
+    <i class="fas fa-angry" id = "face"></i>
   )
 }
 export default ImageThumbnail;
