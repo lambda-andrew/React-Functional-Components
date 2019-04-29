@@ -5,10 +5,8 @@ import CardContent from './CardContent';
 
 const CardContainer = (props) => {
   return (
-    <div className = "card-content">
-      <div className = "card-banner">
-        <CardBanner />
-      </div>
+    <div className = "card-container">
+      <CardBanner />
       <CardContent />
     </div>
   );
