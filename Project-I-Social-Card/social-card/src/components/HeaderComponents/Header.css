@@ -1,1 +1,32 @@
 /* All styles for your header Components live here */
+
+.thumbnail-title {
+  display: flex;
+  padding: 1rem;
+  width: 80%;
+  margin: .5rem 0 .5rem 0;
+}
+
+.thumbnail {
+  margin-top: 1.6rem;
+}
+
+.header-main {
+  margin-left: .5rem;
+  padding: 0 .5rem;
+}
+
+.header-title {
+  display: flex;
+  align-items: baseline;
+}
+
+.header-title p {
+  color: gray;
+  margin-right: .5rem;
+  margin-left: .5rem;
+}
+
+.header-content {
+  line-height: 1.4em;
+}
