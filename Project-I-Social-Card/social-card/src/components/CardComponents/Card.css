@@ -1,1 +1,28 @@
 /* All styles for your Card Components live here */
+.cardContainer{
+    max-width: 500px;
+    width: 91%;
+    margin-left: 43px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.cardContainer img{
+    width: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.cardContent{
+    padding: 10px;
+    padding-top: 0;
+}
+
+.cardContent h4{
+    margin: 3px 0;
+}
+
+.cardContent p{
+    margin: 0 0 5px
+}
