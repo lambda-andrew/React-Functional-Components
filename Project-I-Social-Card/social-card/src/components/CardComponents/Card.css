@@ -15,3 +15,12 @@ div{
 
 font-size: 100px;
 }
+img{
+  margin: 0 auto;
+  width:80%;
+  height:auto;
+}
+#top{
+  width:80%;
+  margin: 0 auto;
+}
