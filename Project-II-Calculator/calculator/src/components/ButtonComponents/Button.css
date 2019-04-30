@@ -1,0 +1,22 @@
+.actionButton {
+    width: 75%;
+    background-color: ghostwhite;
+    color: black;
+}
+button{
+    width: 25%;
+    height: 40px;
+    font-size: 1.5rem;
+    border: 1px solid gray;
+}
+
+.symbol{
+    background-color: darkred;
+    color: white;
+}
+
+.number{
+    width: 25%;
+    background-color: ghostwhite;
+    color: black;
+}

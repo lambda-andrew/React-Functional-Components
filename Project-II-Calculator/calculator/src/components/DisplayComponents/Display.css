@@ -1,0 +1,7 @@
+.calDisplay{
+    border: 1px solid gray;
+    background-color: black;
+    color: white;
+    text-align: right;
+    padding-right: 5px;
+}
