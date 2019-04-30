@@ -1,0 +1,8 @@
+.bor{
+  width: 400px;
+  border: 1px solid black;
+  display: flex;
+}
+div{
+  border: 1px solid black;
+}
