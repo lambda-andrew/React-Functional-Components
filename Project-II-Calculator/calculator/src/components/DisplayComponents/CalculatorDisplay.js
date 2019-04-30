@@ -4,7 +4,7 @@ import './Display.css';
 
 const Display = () => {
   return (
-    <p>word</p>
+    <p>numbers</p>
   )
 }
 

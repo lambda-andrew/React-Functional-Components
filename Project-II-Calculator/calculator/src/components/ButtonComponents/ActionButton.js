@@ -5,8 +5,13 @@ const ActionButton = () => {
   return (
 
     <div id = "cl">
-    clear
+    <div id = "Ac">divi</div>
+    <div id = "Ac">multi</div>
+    <div id = "Ac">min</div>
+    <div id = "Ac">sdd</div>
+    <div id = "Ac">equal</div>
     </div>
+
   )
 }
 
